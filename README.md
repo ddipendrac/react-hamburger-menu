@@ -6,10 +6,12 @@ Desktop
 ![Screenshot (69)](https://user-images.githubusercontent.com/76725537/176118869-49edb628-aede-4bbd-a573-fbb599854bbe.png)
 
 Tablet
-![Screenshot (70)](https://user-images.githubusercontent.com/76725537/176118954-09af4186-a6f2-4b81-9370-e062e8a47b84.png) ![Screenshot (71)](https://user-images.githubusercontent.com/76725537/176119014-79593950-02a1-4272-b712-1b9e72522873.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/76725537/176118954-09af4186-a6f2-4b81-9370-e062e8a47b84.png) 
+![Screenshot (71)](https://user-images.githubusercontent.com/76725537/176119014-79593950-02a1-4272-b712-1b9e72522873.png)
 
 Smartphone
-![Screenshot (72)](https://user-images.githubusercontent.com/76725537/176119057-fa802946-df65-45d6-9479-b2a14cb616ef.png) ![Screenshot (73)](https://user-images.githubusercontent.com/76725537/176119096-8ba486e7-ba8e-47dc-8717-9cf398edc173.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/76725537/176119057-fa802946-df65-45d6-9479-b2a14cb616ef.png) 
+![Screenshot (73)](https://user-images.githubusercontent.com/76725537/176119096-8ba486e7-ba8e-47dc-8717-9cf398edc173.png)
 
 
 
