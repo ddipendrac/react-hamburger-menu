@@ -31,6 +31,13 @@ https://user-images.githubusercontent.com/76725537/176122469-4a181dcf-402d-48d5-
 ![Screenshot (73)](https://user-images.githubusercontent.com/76725537/176119096-8ba486e7-ba8e-47dc-8717-9cf398edc173.png)
 
 
+# About
+ * This is fully responsive Hamburger Menu made by using ReactJS.
+ * Pure CSS is used for styling without any frameworks.
+ * Link for live demo is provided.
+ * It is deployed in netlify.
+ * You can take a look by seeing preview video and screenshots or just by clicking live demo link.
+ * Thank you for visiting this repository!
 
 
 # Getting Started with Create React App
