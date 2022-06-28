@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'D-DIN DIN-Bold';
+  font-style: normal; 
+  font-weight: normal;
+  src: local('../fonts/D-DIN DIN-Bold'), url('../fonts/D-DIN-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'D-DIN Regular';
+  font-style: normal; 
+  font-weight: normal;
+  src: local('../fonts/D-DIN Regular'), url('../fonts/D-DIN.woff') format('woff');
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  height: 100px;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  color: #FFF;
+  z-index: 5;
+}
+
+.logo {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 60px;
+  left: 50px;
+  font-size: 30px;
+  width: 130px;
+  margin-left: 50px;
+  z-index: 6;
+}
+
+.nav-links {
+  position: fixed;
+  left: 370px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 80%;
+  
+}
+
+.nav-link {
+  font-family: 'D-DIN DIN-Bold';
+  letter-spacing: 1px;
+  margin-right: 30px;
+}
+
+.btn-underline {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  white-space: nowrap;
+  color: #FFF;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.btn-underline:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: #FFF;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.btn-underline:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+
+@media (max-width: 943px) {
+  .nav-link {
+    visibility: hidden;
+  }
+
+  .logo {
+    font-size: 24px;
+    line-height: 30px;
+    width: 100vw;
+    left: -50px;
+    top: 14px;
+    text-align: center;
+  }
+}
